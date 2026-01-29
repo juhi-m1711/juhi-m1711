@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Juhi Moudekar</h1>
+<h1 align="center">Hi, I'm Juhi Moudekar</h1>
 <h3 align="center">A Data Analytics enthusiast exploring insights through numbers and visuals.</h3>
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Excel and Power BI for Data Analysis  
 - Exploring data-driven decision-making and visualization  
 
 ---
 
-### 💻 Skills & Tools
+### Skills & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -22,13 +22,13 @@
 
 ---
 
-### 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/juhi-moudekar-b81734271/  
-- 📧 Email: moudekarjuhi@gmail.com
+### Connect with Me
+-  LinkedIn: https://www.linkedin.com/in/juhi-moudekar-b81734271/  
+-  Email: moudekarjuhi@gmail.com
 
 ---
 
-⭐️ *“Turning data into stories that inspire action.”*
+ *“Turning data into stories that inspire action.”*
 
 
 <!--
