@@ -4,8 +4,8 @@
 ---
 
 ### Currently Learning
-- Python for Data Science 
-- Exploring data-driven decision-making and visualization  
+- Statistical Data Analysis 
+- Exploring data-driven decision-making   
 
 ---
 
