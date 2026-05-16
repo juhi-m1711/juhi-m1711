@@ -4,7 +4,7 @@
 ---
 
 ### Currently Learning
-- Statistical Data Analysis 
+- Machine Learning
 - Exploring data-driven decision-making   
 
 ---
